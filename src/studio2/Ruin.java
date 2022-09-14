@@ -49,7 +49,7 @@ public class Ruin {
         if(totalDays > 0) {
 			
 			double ruin = (fail / totalDays) * 100;
-			System.out.println("The ruin rate is " + ruin);
+			System.out.println("The ruin rate is " + ruin + "%");
 			
 			}
 		
